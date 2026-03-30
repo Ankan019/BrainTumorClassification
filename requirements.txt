@@ -1,6 +1,6 @@
 streamlit
 numpy
-tensorflow
+tensorflow-cpu
 opencv-python-headless
 Pillow
 gdown
